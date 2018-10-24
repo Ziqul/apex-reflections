@@ -5,7 +5,6 @@
             "package": "Reflections",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "description": "Reflection is a feature that allows program to examine or introspect upon itself, and manipulate internal properties of the program",
             "default": true
         }
     ],
